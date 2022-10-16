@@ -1,0 +1,7 @@
+*.pt
+data/
+.caffemodel
+.txt
+.weights
+.cfg
+.names
